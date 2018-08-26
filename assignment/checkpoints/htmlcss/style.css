@@ -1,9 +1,24 @@
-/* give your page a fun background color */
+body {
+  background-color: skyblue
+  }/* give your page a fun background color */
 
-/* give your header and footer another background color */
-
-/* define the font for your header */
-
-/* remove the bullets from your unordered list */
-
+footer {
+  background-color: red
+  }
+  h1 {
+    font-family: serif;
+    background-color: red
+    }/* give your header and footer another background color */
+    /* define the font for your header */
+    /* remove the bullets from your unordered list */
+div {
+  list-style-type: none;
+  font-style: italic;
+  color: white
+}
+ol{
+  font-style: italic;
+  color: white
+}
 /* make your paragraph italic and a color that is not black */
+/* not sure if there's an easier way to do that last one. */
